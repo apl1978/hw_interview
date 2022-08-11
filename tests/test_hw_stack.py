@@ -2,6 +2,7 @@ import unittest
 from parameterized import parameterized
 from stack.hw_stack import pairs, is_brackets_balanced
 
+
 class TestFunctiuns(unittest.TestCase):
 
     @parameterized.expand(
